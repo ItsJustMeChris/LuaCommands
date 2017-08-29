@@ -32,3 +32,5 @@ function command:commandcatch(x)
         end
     end
 end
+
+return command
